@@ -11,6 +11,7 @@ from nltk.tokenize import word_tokenize
 nltk.download('stopwords') #for excluding stop words
 nltk.download('wordnet') #for lemmatization
 nltk.download('averaged_perceptron_tagger') #for tagging
+nltk.download('punkt') #for punctuations
 
 def clean(raw, lemmatizer, stop_words = ()):
 
