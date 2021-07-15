@@ -4,5 +4,5 @@ This will guide you in installing Python and the packages required for this proj
 
 Install these in the following order:
 
-1. [Miniconda](./miniconda.md): this includes a minimal installation of conda and Python. Conda is used for installing Python packages in the next step.
-2. [Required Packages](./requirements.md): this will install the Python packages required for this project.
+1. [Miniconda](./miniconda.md): includes a minimal installation of conda and Python. Conda is used for installing Python packages in the next step.
+2. [Required Packages](./requirements.md): includes installation of Python packages required for this project.
