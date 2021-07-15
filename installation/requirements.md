@@ -1,6 +1,6 @@
 # Required Packages
 
-Follow the steps below to download the Python packages. Please make sure you have successfully completed the [Miniconda](./miniconda.md) installation first.
+Once you have successfully installed Python and conda (see [Miniconda](./miniconda.md) installation guide), follow the steps below to download the Python packages **required for this project**. 
 
 1. Create a text file called **requirements.txt** on your desktop.
 2. Copy the contents of this [file](./requirements.txt) to **your** requirements file and save it.
