@@ -1,6 +1,6 @@
 ## Miniconda
 
-Follow these steps to install conda, Python and the packages they depend on.
+Follow these steps to install conda and Python.
 
 1. Download **Python 3.8** version of miniconda installer that matches your operating system (Windows, Mac) [here](https://docs.conda.io/en/latest/miniconda.html).
 2. Run the installer. When prompted, choose the following options:
