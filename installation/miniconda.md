@@ -3,13 +3,25 @@
 Follow these steps to install conda, Python and the packages they depend on.
 
 1. Download **Python 3.8** version of miniconda installer that matches your operating system (Windows, Mac) [here](https://docs.conda.io/en/latest/miniconda.html).
-2. Run the installer with the following options: **add screenshots here**
+2. Run the installer. When prompted, choose the following options:
 
-*To check if the installation was succesful, follow these steps:*
-1. Open a command shell screen.
-2. On the command line, type `python -V`. If you see `Python 3.8.5`, congrats!
+- **Destination Folder:** Accept the default folder or enter a different one
 
-Go back to the [Installation Guide](./readme.md).
+  ![image](./screenshots/miniconda_install_01.jpg)
 
+- **Install for:** Choose *Just Me*
+
+  ![image](./screenshots/Screenshot%202021-07-14%20190517.png)
+
+- **Advanced Options:** This is **important!** Choose *Add Miniconda3 to my PATH environment variable*
+
+  ![image](./screenshots/Screenshot%202021-07-14%20190730.png)
+
+3. When completed, check if the installation was successful. Follow these steps:
+  - Open a command shell screen.
+  - On the command line, type `python -V`. If you see `Python 3.8.5`, congrats!
+
+### Links
+Go back to the [Installation Guide](./readme.md).<br>
 Go to [Required Packages](./requirements.md).
 
