@@ -1,6 +1,8 @@
-## Installation Guide
+# Installation Guide
 
-Follow the instructions in the `.md` files in this folder, and install these in the following order:
+This will guide you in installing Python and the packages required for this project. It will take approximately **15 minutes** and will need about **2.5GB** of disk space.
 
-* [Miniconda](./miniconda.md): a free minimal installer for conda. It includes only conda, Python, the packages they depend on, and a small number of other useful package.
-* [Required Packages](./requirements.md): Python packages required for this project.
+Install these in the following order:
+
+1. [Miniconda](./miniconda.md): this includes a minimal installation of conda and Python. Conda is used for installing Python packages in the next step.
+2. [Required Packages](./requirements.md): this will install the Python packages required for this project.
