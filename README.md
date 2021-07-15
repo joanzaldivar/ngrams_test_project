@@ -1,8 +1,7 @@
-# Python Installation Guide
+# Sentiment Analysis
 
-This will guide you in installing Python and the packages required for this project. It will take approximately **15 minutes** and will need about **2.5GB** of disk space.
+This project aims to identify common themes from a number of comments and analyze the related sentiment (i.e., positive, negative, or neutral). 
+**Note: This work is in progress.**
 
-Install these in the following order:
+Use the [Installation Guide](./install/installation.md) to install the Python version and packages required for this project.
 
-1. [Miniconda](./miniconda.md): this includes a minimal installation of conda and Python. Conda is used for installing Python packages in the next step.
-2. [Required Packages](./requirements.md): this will install the Python packages required for this project.
