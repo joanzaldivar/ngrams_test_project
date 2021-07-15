@@ -18,8 +18,11 @@ Follow these steps to install conda, Python and the packages they depend on.
   ![image](./screenshots/Screenshot%202021-07-14%20190730.png)
 
 3. When completed, check if the installation was successful. Follow these steps:
-  - Open a command shell screen.
+  - Open Command Prompt application on your desktop.
+  ![image](./screenshots/open_command_prompt.jpg)
+  
   - On the command line, type `python -V`. If you see `Python 3.8.5`, congrats!
+  ![image](./screenshots/check_python_version.jpg)
 
 ### Links
 Go back to the [Installation Guide](./readme.md).<br>
