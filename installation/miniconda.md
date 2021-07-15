@@ -5,15 +5,15 @@ Follow these steps to install conda and Python.
 1. Download **Python 3.8** version of miniconda installer that matches your operating system (e.g., Windows 64-bit) [here](https://docs.conda.io/en/latest/miniconda.html).
 2. Run the installer. When prompted, choose the following options:
 
-- **Destination Folder:** Accept the default folder or enter a different one
+- **Destination Folder:** Accept the default folder or enter a different one.
 
   ![image](./screenshots/miniconda_install_01.jpg)
 
-- **Install for:** Choose *Just Me*
+- **Install for:** Choose *Just Me*.
 
   ![image](./screenshots/Screenshot%202021-07-14%20190517.png)
 
-- **Advanced Options:** This is **important!** Choose *Add Miniconda3 to my PATH environment variable*
+- **Advanced Options:** This is **important!** Check *Add Miniconda3 to my PATH environment variable*.
 
   ![image](./screenshots/Screenshot%202021-07-14%20190730.png)
 
