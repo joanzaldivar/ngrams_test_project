@@ -7,7 +7,7 @@ Once you have successfully installed Python and conda (see [Miniconda](./minicon
 3. Open Command Prompt in the same folder on **your** desktop where your requirements file is located.
 4. On the command line, type `conda install -c conda-forge --file requirements.txt` and press **enter**.
 5. When prompted to proceed, type `y` and press **enter**.
-6. The system will start downloading the packages. When **complete**, you will see the message *Executing transaction: done*.
+6. The system will start downloading the packages. When complete, you will see the message ***Executing transaction: done***.
 
 ### Links
 Go back to the main [Installation Guide](./readme.md).<br>
