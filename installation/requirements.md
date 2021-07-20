@@ -11,8 +11,9 @@ Once you have successfully installed Python and conda (see [Miniconda](./minicon
 5. Then, type `conda config --set ssl_verify no`.
 6. Then, type `conda install -c conda-forge --file requirements.txt` and press **enter**.
 7. When prompted to proceed, type `y` and press **enter**.
-8. The system will start downloading the packages. When complete, you will see the message ***Executing transaction: done***.
-9. Finally, type `conda config --set ssl_verify yes` and press **enter**. 
+8. The system will start downloading the packages. When complete, you will see the message ***Executing transaction: done***.<br>
+  ![image](./screenshots/install_requirements.jpg)
+10. Finally, type `conda config --set ssl_verify yes` and press **enter**. 
 
 Congratulations! You've completed the installation of required packages.
 
